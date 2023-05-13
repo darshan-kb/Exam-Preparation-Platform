@@ -1,9 +1,9 @@
 package com.one.one.entities;
 
-import javax.persistence.Entity;
+import jakarta.persistence.Entity;
 //import javax.persistence.GeneratedValue;
 
-import javax.persistence.Id;
+import jakarta.persistence.Id;
 
 @Entity
 public class GeneralAware {
